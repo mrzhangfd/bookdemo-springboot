@@ -1,0 +1,3 @@
+# bookdemo-springboot
+bookdemo的后端代码
+数据的持久层使用mybatis框架+分页插件pagehelper
